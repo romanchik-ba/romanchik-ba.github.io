@@ -5,7 +5,7 @@
 # I'm a Junior Software QA Engineer
 
 ### Tools:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-08138a.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-0146b3.svg?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black)    ![Excel](https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-08138a.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Jira](https://img.shields.io/badge/jira-0146b3.svg?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)   ![Excel](https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 
 ### Courses lessons and tasks:
