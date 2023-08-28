@@ -1,0 +1,56 @@
+[
+   {
+      "countryNameEng": "Canada",
+      "countryNameRus": "Канада",
+      "alpha3Code": "CAN",
+      "currencyCode": "CAD",
+      "cities": [
+         {
+            "nameEng": "Toronto",
+            "nameRus": "Торонто",
+            "population": 2794356
+         },
+         {
+            "nameEng": "Calgary",
+            "nameRus": "Калгари",
+            "population": 1640000
+         }
+      ]
+   },
+   {
+      "countryNameEng": "Honduras",
+      "countryNameRus": "Гондурас",
+      "alpha3Code": "HND",
+      "currencyCode": "HNL",
+      "cities": [
+         {
+            "nameEng": "Tegucigalpa",
+            "nameRus": "Тегусигальпа",
+            "population": 1526660
+         },
+         {
+            "nameEng": "San Pedro Sula",
+            "nameRus": "Сан Педро Сула",
+            "population": 638259
+         }
+      ]
+   },
+   {
+      "countryNameEng": "Saint Lucia",
+      "countryNameRus": "Санта Лючия",
+      "alpha3Code": "662",
+      "currencyCode": "XCD",
+      "cities": [
+         {
+            "nameEng": "Castries",
+            "nameRus": "Кастриес",
+            "population": 20000
+         },
+         {
+            "nameEng": "Micoud",
+            "nameRus": "Микоуд",
+            "population": 3406
+         }
+      ]
+   }
+]
