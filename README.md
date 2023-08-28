@@ -10,9 +10,9 @@
 
 ### Courses lessons and tasks:
 
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBZTbTF_cEzDMbSv?e=PYxyKi" style="font-family: Mojangles;">**Software Testing Basics. Lesson 1.**</a>
++ <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/Software%20Testing%20Basics.pdf" style="font-family: Mojangles;">**Software Testing Basics. Lesson 1.**</a>
 
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBdWg9wVMgGTb9mD?e=pfLSll" style="font-family: Mojangles;">**HTML Forms. XML and JSON. Lesson 2**</a>
++ <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/HTML%20Forms.%20XML%20and%20JSON.pdf" style="font-family: Mojangles;">**HTML Forms. XML and JSON. Lesson 2**</a>
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBjMwneOXOOa3y6Q?e=t6OxWs" style="font-family: Mojangles;">**Test Cases. Check-Lists. UI&UX. Lesson 3**</a>
 
@@ -34,9 +34,13 @@
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhCShDN4K7URnc-Gh?e=dY9Bf7" style="font-family: Mojangles;">**SQL. Connections, transactions, functions. Lesson 12**</a>
 
-### Databases:
+### Other necessary stuff:
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhB4V_eN4tWL-3vSd?e=21RIW4" style="font-family: Mojangles;">**SQL_Databases**</a>
+
++ <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/romanchik-ba.xml" style="font-family: Mojangles;">**countries_XML.xml**</a>
+
++ <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/romanchik-ba.json" style="font-family: Mojangles;">**countries_JSON.json**</a>
 
 
 
