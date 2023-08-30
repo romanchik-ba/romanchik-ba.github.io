@@ -22,15 +22,12 @@
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBwSNwPsxk2KQJK1?e=z9GH1d" style="font-family: Mojangles;">**Boundary Values.  Domain Analysis. Equivalence Classes. Test-Design. Lesson 7**</a>
 
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhB08Mt7OS3t1ljsu?e=DGKzch" style="font-family: Mojangles;">**SQL. Creation of a DB's and tables. Operation with data. Lesson 8**</a>
-
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhCGr5OzLmLK1aoUu?e=90uSWh" style="font-family: Mojangles;">**Test Combinatorics. Lesson 9**</a>
-
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhCJ8Oo5qk8t8Tibx?e=cbJqzy" style="font-family: Mojangles;">**SQL - SELECT. WHERE. GROUP BY. Lesson 10**</a>
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhCM0ofmhbx0HyYcD?e=oGWObh" style="font-family: Mojangles;">**Pairwise. PICT. Lesson 10**</a>
 
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhCShDN4K7URnc-Gh?e=dY9Bf7" style="font-family: Mojangles;">**SQL. Connections, transactions, functions. Lesson 12**</a>
++ SQL
+
 
 ### Other necessary stuff:
 
