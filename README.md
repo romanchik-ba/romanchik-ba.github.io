@@ -20,8 +20,6 @@
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBrOitkjzJ1HY6gT?e=eIdIta" style="font-family: Mojangles;">**Atlassian JIRA. Bug Reports. Test Plan. Lesson 5**</a>
 
-+ <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBvQDVEHlygeIunn?e=z1q0nR" style="font-family: Mojangles;">**Windows & Linux-Unix Terminal. Lesson 6**</a>
-
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhBwSNwPsxk2KQJK1?e=z9GH1d" style="font-family: Mojangles;">**Boundary Values.  Domain Analysis. Equivalence Classes. Test-Design. Lesson 7**</a>
 
 + <a href="https://1drv.ms/f/s!AoU8sFbTHdZBhB08Mt7OS3t1ljsu?e=DGKzch" style="font-family: Mojangles;">**SQL. Creation of a DB's and tables. Operation with data. Lesson 8**</a>
