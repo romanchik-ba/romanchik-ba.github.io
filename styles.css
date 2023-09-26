@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0px;
+    background-color: rgba(223, 229, 105, 0.129);
+    background-image: linear-gradient(180deg, rgba(184, 240, 43, 0.385), rgb(245, 245, 243));
+    color: rgb(0, 0, 0);
+    font: 18px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+/* Style for mobile devices */
+@media screen and (max-width: 720px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+.skill_map {
+    font-weight: bold;
+    margin-left: 15px;
+    background-color: rgba(54, 206, 237, 0.405);
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.resume_text {
+    padding: 20px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    background-color: rgba(94, 178, 242, 0.466);
+    border-radius: 10px;
+    font-size: large;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.resume_text::first-letter {
+    padding-right: 10px;
+    initial-letter: 2 1;
+}
+
+.education {
+    padding: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    font-size: 18px;
+    line-height: 1.16;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: rgba(36, 112, 218, 0.474);
+}
+
+.langs {
+    margin: 0px;
+    background-color: rgb(23, 228, 50, 0.474);
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 85px;
+    font-size: 24px;
+    line-height: 1.16;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-weight: 700;
+}
+
+.lang_rus {
+    padding: 10px;
+    padding-right: 300px;
+    font-weight: 800;
+    height: 16px;
+    margin: 0px;
+    line-height: 10px;
+    border: 1px solid transparent;
+}
+
+.lang_en {
+    padding: 10px;
+    margin: 0px;
+    font-weight: 800;
+    height: 16px;
+    line-height: 10px;
+
+}
+
+a:hover {
+    text-decoration: double;
+    color: rgb(13, 239, 220);
+}
+
+.moai {
+    width: 300px;
+    display: inline;
+    height: -900px;
+    filter: drop-shadow(3px 3px 10px #2e38bf);
+    padding-bottom: -50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.info h1 {
+    color: rgb(0, 0, 0);
+    padding-bottom: -50px;
+    margin-left: 20px;
+    padding-top: -50px;
+    font-weight: bold;
+}
+
+.info h2 {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    padding-top: -50px;
+    font-weight: italic;
+}
+
+.info p {
+    padding-left: 15px;
+    border-radius: 20px;
+    background-color: rgba(191, 230, 93, 0.474);
+    color: rgb(2, 2, 2);
+    font-weight: bold;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
+.links {
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: rgba(161, 78, 217, 0.474);
+    list-style: disc;
+    padding: 10px;
+    padding-left: 15px;
+}
