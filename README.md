@@ -4,9 +4,8 @@
 
 # **I'm a Junior Software QA Engineer**
 
-
-### Tools:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-08138a.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-0146b3.svg?style=for-the-badge&logo=jira&logoColor=white) ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)   ![Excel](https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white)   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ### Tools:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-08138a.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-0146b3.svg?style=for-the-badge&logo=jira&logoColor=white) ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-4d9ceb.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)   ![Excel](https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white)   ![Swagger](https://img.shields.io/badge/-Swagger_API-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## Courses lessons and tasks:
 
@@ -39,7 +38,9 @@
 
 ### Other necessary stuff:
 
-:yellow_circle: <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/world%20(1).sql" style="font-family: Mojangles;">**SQL_Database 'world'**</a>
+:purple_circle: <a href="https://romanchik-ba.github.io/" style="font-family: Mojangles;">**My CV Website**</a>
+
+:yellow_circle: <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/world%20(1).sql" style="font-family: Mojangles;">**SQL_Database world**</a>
 
 :yellow_circle: <a href="https://mysitejiraexample.atlassian.net/browse/BQABR" style="font-family: Mojangles;">**My JIRA Projects**</a>
 
