@@ -38,7 +38,7 @@
 
 :yellow_circle: <a href="https://github.com/romanchik-ba/romanchik-ba/blob/main/world%20(1).sql" style="font-family: Mojangles;">**SQL_Database world**</a>
 
-:yellow_circle: <a href="https://mysitejiraexample.atlassian.net/browse/BQABR" style="font-family: Mojangles;">**My JIRA Projects**</a>
+:yellow_circle: <a href="https://mysitejiraexample.atlassian.net/" style="font-family: Mojangles;">**My JIRA Projects**</a>
 
 ### How to get in contact with me:
 
