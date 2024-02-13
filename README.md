@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://st4.depositphotos.com/27847728/40756/v/450/depositphotos_407561294-stock-illustration-initial-letter-logo-design-creative.jpg" alt="Header Image">
-</div>
-
 # **I'm a Junior Software QA Engineer**
 
   ### Tools:
